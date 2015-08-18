@@ -1,6 +1,7 @@
 <?php
 
 echo "WELCOME!!";
+echo "to HAH";
 
 $server = "localhost";
 $user = "root";
